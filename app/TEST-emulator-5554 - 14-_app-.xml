@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.appcircle_sample_android.ExampleInstrumentedTest" tests="3" failures="0" errors="0" skipped="0" time="2.609" timestamp="2023-11-13T12:47:40" hostname="localhost">
+  <properties>
+    <property name="device" value="emulator-5554 - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="clickNextPageBtn" classname="com.example.appcircle_sample_android.ExampleInstrumentedTest" time="0.861" />
+  <testcase name="checkText" classname="com.example.appcircle_sample_android.ExampleInstrumentedTest" time="0.904" />
+  <testcase name="useAppContext" classname="com.example.appcircle_sample_android.ExampleInstrumentedTest" time="0.427" />
+</testsuite>
